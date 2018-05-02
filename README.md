@@ -37,3 +37,5 @@ Steps:
 14) Recombined the columns of the final tiny dataset
   Variable created:  final
 15) Renamed the final dataset names to "Subject", "Activity", "Feature", "Dimension", "Mean", "StdDev" for clarity
+
+See Codebook.MD for additional description of source data, transformations and variables.
